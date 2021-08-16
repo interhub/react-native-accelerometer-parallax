@@ -1,0 +1,21 @@
+{
+  "githubUrl": "https://github.com/interhub/react-native-accelerometer-parallax",
+  "npmPkg": "react-native-accelerometer-parallax",
+  "nameOverride": "react-native-accelerometer-parallax",
+  "examples": [
+    "https://www.npmjs.com/package/react-native-accelerometer-parallax",
+    "https://github.com/interhub/react-native-accelerometer-parallax"
+  ],
+  "images": [
+    "http://interhub.github.io/source/parallax-lib.gif"
+  ],
+  "ios": true,
+  "android": true,
+  "web": false,
+  "expo": true,
+  "windows": false,
+  "macos": false,
+  "unmaintained": false,
+  "dev": false,
+  "template": false
+}
